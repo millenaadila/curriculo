@@ -1,0 +1,104 @@
+body {
+    background-color: rgb(197, 154, 238);
+    margin: 50px auto;
+    font-family: 'roboto condensed', sans-serif;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+#imagem-perfil {
+    width: 300px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+h1 {
+    color: rgb(239, 239, 247);
+    text-align: center;
+    font-weight: 400;
+    font-size: 80px;
+}
+
+.minibio {
+    text-align: center;
+    font-family: 400;
+    color: black;
+    line-height: 2;
+    
+    
+    
+}
+
+h3 {
+    color: rgb(247, 236, 216);
+    text-align: center;
+    font-weight: 300;
+    font-family: 300;
+}
+
+.descritivo-perfil {
+    text-align: justify;
+    padding: 20px;
+    line-height: 2;
+
+}
+
+
+.tabela {
+    border-color: rgb(14, 13, 13);
+    border: solid;
+    text-align: center;
+    width: 50%;
+    margin: 20px;
+    
+   
+    
+
+    
+}
+
+.titulos-menores {
+    color: black;
+    font-weight: 300;
+    border-width: solid;
+    border-color: black;
+    border: 2px;
+    padding: 4px;
+    border size: 2px;
+}
+
+td {
+    border size: 0,5;
+    border-style: solid;
+    width: 30%;
+    height: 20;
+    padding: 20px;
+    
+
+}
+
+.texto-geral {
+    color: black;
+    font-weight: 300;
+    line-height: 23px;
+    border-style: solid;
+    border: 3px;
+    padding: 4px;
+}
+
+.texto-secundario {
+    color: black;
+    font-weight: 300;
+    line-height: 23px;
+    border-style: solid;
+    border: 3px;
+    padding: 4px;
+}
+.redes{
+    text-align: center;
+}
